@@ -3,7 +3,7 @@
 
 - 🎓 Masters (MCA) from Pune University Computer Science Department (PUCSD), Pune, Maharashtra.
 - :test_tube: Software Development Engineer In Test 
-- :speech_balloon: Ask me about Test Automation , API Automation , Performance Testing , Azure DevOps , CI/CD  or literally anything!
+- :speech_balloon: Ask me about - Selenium , Test Automation , API Automation , Performance Testing , Azure DevOps , CI/CD  or literally anything!
 - :computer: I love open source projects and like to explore them.
 - :book: Apart from programing, I enjoy books.
 - :mailbox: You can reach me with the links below
@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="30"/> </a>
 ![SQL](https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white")
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="35" height="30"/> </a>
+
 
 ##### Some of the tools I have worked with
 
