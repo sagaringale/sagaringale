@@ -20,12 +20,17 @@
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white")
 ![Java](https://img.shields.io/badge/Java-%2300599C.svg?&style=for-the-badge&logo=Java&logoColor=white")
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="30"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="30"/> </a>
 ![SQL](https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white")
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="35" height="30"/> </a>
 
 ##### Some of the tools I have worked with
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white")
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"&link=https://github.com/sagaringale)
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="35" height="30"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="30"/> </a>
 
 
 <p align="center"> 
@@ -34,4 +39,4 @@
 </p>
 
 
-⭐️ From [SI](https://github.com/sagaringale)
+⭐️ From [Sagar Ingale](https://github.com/sagaringale)
