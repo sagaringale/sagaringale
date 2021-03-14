@@ -10,10 +10,9 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagar.ingale8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sagar-ingale-971010119)  
-<a href="https://www.hackerrank.com/sagaringale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sagaringale" height="35" width="45" /></a>
-<a href="https://www.hackerearth.com/@sagar_ingale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sagar_ingale" height="35" width="45" /></a>
 
-[![SI's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmjagtap&layout=compact)](https://github.com/sagaringale)
+
+[![SI's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagaringale&layout=compact)](https://github.com/sagaringale)
 
 ![SI's github stats](https://github-readme-stats.vercel.app/api?username=sagaringale&count_private=true)
 
