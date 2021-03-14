@@ -14,7 +14,7 @@
 
 [![SI's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagaringale&layout=compact)](https://github.com/sagaringale)
 
-![SI's github stats](https://github-readme-stats.vercel.app/api?username=sagaringale&count_private=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagaringale&show_icons=true&locale=en" alt="sagaringale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagaringale&" alt="sagaringale" /></p>
 
