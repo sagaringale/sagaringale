@@ -16,6 +16,8 @@
 
 ![SI's github stats](https://github-readme-stats.vercel.app/api?username=sagaringale&count_private=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagaringale&" alt="sagaringale" /></p>
+
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=C&logoColor=white")
